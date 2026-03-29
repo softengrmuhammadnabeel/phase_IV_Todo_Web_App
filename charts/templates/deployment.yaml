@@ -1,0 +1,2 @@
+{{- /* This chart uses separate backend-deployment.yaml and frontend-deployment.yaml files */ -}}
+{{- /* This file exists to maintain compatibility but is not actively used */ -}}
